@@ -14,7 +14,7 @@ These projects were developed during my **Data Structures & Algorithms course** 
 - Trees & Binary Search Trees
 - Graphs & Traversals (BFS, DFS, Dijkstra)
 - Sorting Algorithms (Bubble, Merge, Quick)
-- Recursion & Dynamic Programming (coming soon)
+
 
 ---
 
